@@ -2,6 +2,11 @@
 
 ## Table of Contents
 
+- [Introduction](#introduction)
+- [Built With](#built-with)
+- [What I learned](#what-i-learned)
+- [Screenshots](#screenshots)
+
 ## Introduction
 
 This is a qr component frontend mentor challenge.\
